@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class averageGrade {
+public class AverageGradeCounter {
     public static void main(String[] args) {
         int GradeCounter = 1;
         int Total = 0;
